@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Policy", ".", "{C31F6FCA-F384-4F45-B7DA-7AF3ABBAB36B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Policy"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Anis\24-11-2020\folder\Policy\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Policy\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Policy"
+		Release.AspNetCompiler.PhysicalPath = "D:\Anis\24-11-2020\folder\Policy\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Policy\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55651"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C31F6FCA-F384-4F45-B7DA-7AF3ABBAB36B}.Debug|.NET.ActiveCfg = Debug|.NET
+		{C31F6FCA-F384-4F45-B7DA-7AF3ABBAB36B}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
